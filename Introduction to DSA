@@ -44,6 +44,15 @@ Classification of data like: String, Number, Boolean, Undefined, NULL
 Further sub-division of data. 
 Why do you think this sub classification is required? - Better memory management
 
+Constraints
+Refers to restrictions, limitations.
+Generally imposed on the input, helps us figure out the correct data type and algorithm
+Example: the array given to you will have less than 10^6 elements
+
+Debugging
+Identification and removal of bugs/errors in the code
+Important skill that comes when writing and executing code
+
 
 
 DATA TYPES VS DATA STRUCTURES ? 
