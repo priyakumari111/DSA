@@ -31,3 +31,30 @@ For starting with DSA firstly,
 18) Graph.
 19) Greedy Algorithm.
 20) Dynamic Programming and many more algorithms. 
+
+Variables
+   --> Containers for storing data values
+Syntax
+   --> Each programming language has it own syntax (though there are a lot of similarity)
+Get comfortable with the fundamentals
+Keywords: predefined, reserved words that have special meanings to the compiler
+Data types
+Classification of data like: String, Number, Boolean, Undefined, NULL
+Further sub-division of data. 
+Why do you think this sub classification is required? - Better memory management
+
+
+
+DATA TYPES VS DATA STRUCTURES ? 
+Data types and data structures are both important for data science and programming, but they have different roles:
+Data types
+     ---> Define the basic form of data, such as a variable's type. For example, a data type can be short, int, or long, which specify the size and range of values that can be assigned to a variable. 
+Data structures
+     ---> Define how data is organized and interacted with. Data structures are a way to store, process, and retrieve data quickly and efficiently. They can be made up of data of different data types. 
+Here are some examples of data structures:
+Linked list
+--> A linear data structure where elements are stored non-contiguously, meaning they can be stored anywhere in memory. 
+Stack
+--> A linear data structure that operates on a Last In, First Out (LIFO) principle, meaning the last element added is the first to be removed. 
+Array
+--> A data structure where data is stored in adjoining memory locations, and each element is accessed with an index key. 
